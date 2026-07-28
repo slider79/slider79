@@ -23,11 +23,11 @@
 
 ### 👋 About Me
 
-Software Engineering student at **FAST NUCES Lahore** and a **full-stack developer** now interning across **AI, networking, and security**. I build across the stack — React/Next.js and Node.js front-to-back, Python/Django services — and I'm just as comfortable training AI agents or wiring up a P2P gossip network as I am shipping a production system. I like turning messy problems into clean, well-documented software.
+Software Engineering student at **FAST NUCES Lahore** and a **full-stack developer** now interning across **AI, networking, and security**. I build across the stack, from React/Next.js and Node.js front-to-back to Python/Django services, and I'm just as comfortable training AI agents or wiring up a P2P gossip network as I am shipping a production system. I like turning messy problems into clean, well-documented software.
 
-- 🤖 **AI Intern @ Spiral Labs** — training models & building AI agents for real-world tasks
-- 🌐 **IT & Networking Intern @ NASTP** — working hands-on with live network systems
-- 🔐 Recently **Cyber Security Intern @ Progree** — vulnerability assessment & threat modeling
+- 🤖 **AI Intern @ Spiral Labs**: training models & building AI agents for real-world tasks
+- 🌐 **IT & Networking Intern @ NASTP**: working hands-on with live network systems
+- 🔐 Recently **Cyber Security Intern @ Progree**: vulnerability assessment & threat modeling
 - 🔭 Currently building **real-time AI voice agents**, **persistent-memory chatbots** & the **BSDI file-tracking system**
 - ⚡ Fun fact: I shoot photography, run, and ride motorcycles when I'm off the keyboard
 
@@ -88,7 +88,9 @@ Software Engineering student at **FAST NUCES Lahore** and a **full-stack develop
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=black)
 
 **Tools & Platforms**
 
@@ -113,8 +115,8 @@ Software Engineering student at **FAST NUCES Lahore** and a **full-stack develop
           <img src="https://img.shields.io/badge/View%20Repo-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="ANON Mesh repo" />
         </a>
       </p>
-      <p>Fully decentralized <b>P2P anonymous network</b> — no central server. Uses gossip protocols for message propagation across dynamic nodes, with EigenTrust reputation scoring and an overlay topology built to survive node churn.</p>
-      <p><b>Tech:</b> JavaScript · Distributed Systems · Gossip Protocols</p>
+      <p>A fully decentralized <b>P2P anonymous network</b> with no central server, built for anonymous campus messaging. Messages spread peer to peer via <b>gossip protocols</b> across constantly changing nodes, while <b>EigenTrust</b> reputation scoring and identity verification keep peers trustworthy. The overlay topology is designed to absorb heavy node churn, so communication stays resilient as peers join and leave. Started at a NUST Hackathon and extended into a deployment-ready mesh.</p>
+      <p><b>Tech:</b> JavaScript · Distributed Systems · Gossip Protocols · EigenTrust</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🚗 OnYourWay</h3>
@@ -136,7 +138,7 @@ Software Engineering student at **FAST NUCES Lahore** and a **full-stack develop
           <img src="https://img.shields.io/badge/View%20Repo-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Real-Time AI Voice Agent repo" />
         </a>
       </p>
-      <p>A <b>push-to-talk voice assistant</b>: records your speech, transcribes it with <b>Groq Whisper</b>, reasons with a tool-calling <b>Groq LLM</b> (time + calculator tools), and replies out loud via <b>ElevenLabs</b> — a Streamlit app with session memory.</p>
+      <p>A <b>push-to-talk voice assistant</b>: records your speech, transcribes it with <b>Groq Whisper</b>, reasons with a tool-calling <b>Groq LLM</b> (time + calculator tools), and replies out loud via <b>ElevenLabs</b>, all inside a Streamlit app with session memory.</p>
       <p><b>Tech:</b> Python · Streamlit · Groq Whisper · Groq LLM · ElevenLabs</p>
     </td>
     <td width="50%" valign="top">
@@ -146,7 +148,7 @@ Software Engineering student at **FAST NUCES Lahore** and a **full-stack develop
           <img src="https://img.shields.io/badge/View%20Repo-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Persistent Memory Chatbot repo" />
         </a>
       </p>
-      <p>A <b>chatbot that actually remembers you</b> — facts (age, location, interests) persist in <b>Mem0</b> across restarts and redeploys, not just page reloads. Recalls relevant memories each turn, updates facts instead of duplicating, with SHA-256-scoped per-session isolation.</p>
+      <p>A <b>chatbot that actually remembers you</b>: facts (age, location, interests) persist in <b>Mem0</b> across restarts and redeploys, not just page reloads. Recalls relevant memories each turn, updates facts instead of duplicating, with SHA-256-scoped per-session isolation.</p>
       <p><b>Tech:</b> Python · Streamlit · Groq · Mem0</p>
     </td>
   </tr>
@@ -160,35 +162,35 @@ Software Engineering student at **FAST NUCES Lahore** and a **full-stack develop
 
 ## 💼 Experience & Background
 
-**🎓 BSc Software Engineering — FAST NUCES Lahore** · Aug 2023 – Expected Aug 2027
+**🎓 BSc Software Engineering, FAST NUCES Lahore** · Aug 2023 – Expected Aug 2027
 <br/>Coursework: Software Design & Architecture, Database Systems, Design Patterns, Computer Networks, Operating Systems
 
 #### 🔹 Current Roles
 
-**🤖 Artificial Intelligence Intern — Spiral Labs** · Jul 2026 – Present · *NASTP, Lahore · Hybrid*
+**🤖 Artificial Intelligence Intern @ Spiral Labs** · Jul 2026 – Present · *NASTP, Lahore · Hybrid*
 <br/>Training AI models and building/deploying AI agents across a wide range of tasks.
 
-**🌐 IT & Networking Intern — NASTP Institute of Information Technology** · Jul 2026 – Present · *Lahore · On-site*
+**🌐 IT & Networking Intern @ NASTP Institute of Information Technology** · Jul 2026 – Present · *Lahore · On-site*
 <br/>Working hands-on with live network systems.
 
-**🛰️ Field Operations Specialist — Grenade Energy Ltd** · Jul 2026 – Present · *Hybrid*
+**🛰️ Field Operations Specialist @ Grenade Energy Ltd** · Jul 2026 – Present · *Hybrid*
 <br/>On the Field Operations team: outreach to events and teams, plus coordination of in-person events.
 
-**🏛️ Junior Software Engineer — BSDI (Balochistan Special Development Initiative)** · May 2026 – Present
-<br/>Building the **BSDI File Tracking & Management System** — a Django app digitizing government file routing across departments.
+**🏛️ Junior Software Engineer @ BSDI (Balochistan Special Development Initiative)** · May 2026 – Present
+<br/>Building the **BSDI File Tracking & Management System**, a Django app digitizing government file routing across departments.
 
 #### 🔹 Previously
 
-**🔐 Cyber Security Intern — Progree** · Jun – Jul 2026 · *Remote*
+**🔐 Cyber Security Intern @ Progree** · Jun – Jul 2026 · *Remote*
 <br/>Ran host & network vulnerability assessments (Nmap, Nessus, Nikto) and packet-level analysis (Wireshark); designed a STRIDE threat model, a Zero-Trust access architecture, and a 4-stage incident-response plan.
 
-**💻 Full-Stack Developer — BeWhoop** · Jun – Jul 2025 · *Remote*
+**💻 Full-Stack Developer @ BeWhoop** · Jun – Jul 2025 · *Remote*
 <br/>Built web pages in Bootstrap & jQuery, then a standalone **.NET** ticketing system; sprints managed in Jira.
 
 #### 🔹 Leadership & Community
 
-**📣 Head of Public Relations — NUCES Fintech Society** · 2025 – Present — key organizer of the NUCES Fintech Summit.
-<br/>**🌐 Web Development Officer — SOFTEC** · 2024 – 2025 — web operations for one of Pakistan's largest student-run software competitions.
+**📣 Head of Public Relations @ NUCES Fintech Society** · 2025 – Present · key organizer of the NUCES Fintech Summit.
+<br/>**🌐 Web Development Officer @ SOFTEC** · 2024 – 2025 · web operations for one of Pakistan's largest student-run software competitions.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=22C55E&height=2&section=header" width="100%" />
 
