@@ -4,14 +4,17 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+Developer+%2B+AI+Agent+Builder;React+%7C+Node.js+%7C+Python+%7C+Django;Building+LLM+apps+%26+distributed+systems;Software+Engineering+%40+FAST+NUCES" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=680&height=45&lines=Full-Stack+Developer+%2B+AI+Agent+Builder;AI+Intern+%40+Spiral+Labs+%7C+Networking+Intern+%40+NASTP;React+%7C+Next.js+%7C+Node.js+%7C+Python+%7C+Django;Building+LLM+apps%2C+secure+%26+distributed+systems" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=slider79&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/badge/Lahore,%20PK-22C55E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <a href="https://linkedin.com/in/shuja-j"><img src="https://img.shields.io/badge/Let's%20Connect-16A34A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=slider79&label=Profile%20Views&color=22c55e&style=flat-square" alt="Profile views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=22C55E&height=2&section=header" width="100%" />
@@ -20,11 +23,12 @@
 
 ### 👋 About Me
 
-Software Engineering student at **FAST NUCES Lahore** and a **full-stack developer** currently going deep on **AI agents, LLM apps, and distributed systems**. I build across the stack — React/Node.js front-to-back, Python/Django services — and I'm just as comfortable wiring up a P2P gossip network as I am shipping a production ticketing system. I like turning messy problems into clean, well-documented systems.
+Software Engineering student at **FAST NUCES Lahore** and a **full-stack developer** now interning across **AI, networking, and security**. I build across the stack — React/Next.js and Node.js front-to-back, Python/Django services — and I'm just as comfortable training AI agents or wiring up a P2P gossip network as I am shipping a production system. I like turning messy problems into clean, well-documented software.
 
-- 🔭 Currently building **real-time AI voice agents** and **persistent-memory chatbots**
-- 🌱 Going deeper on **distributed systems, P2P architectures & network engineering**
-- 💼 Junior Software Engineer @ **BSDI** · ex Full-Stack Intern @ **BeWhoop**
+- 🤖 **AI Intern @ Spiral Labs** — training models & building AI agents for real-world tasks
+- 🌐 **IT & Networking Intern @ NASTP** — working hands-on with live network systems
+- 🔐 Recently **Cyber Security Intern @ Progree** — vulnerability assessment & threat modeling
+- 🔭 Currently building **real-time AI voice agents**, **persistent-memory chatbots** & the **BSDI file-tracking system**
 - ⚡ Fun fact: I shoot photography, run, and ride motorcycles when I'm off the keyboard
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="100%" />
@@ -39,31 +43,52 @@ Software Engineering student at **FAST NUCES Lahore** and a **full-stack develop
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
+**AI / LLM**
+
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![Mem0](https://img.shields.io/badge/Mem0-7B3FE4?style=for-the-badge)
+![LLM Agents](https://img.shields.io/badge/LLM%20Agents%20%2F%20Tool%20Calling-22C55E?style=for-the-badge&logo=openai&logoColor=white)
+
 **Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Networking & Systems**
+**Networking & Security**
 
 ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-22C55E?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![P2P](https://img.shields.io/badge/P2P%20%2F%20Gossip-16A34A?style=for-the-badge&logo=ipfs&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-15803D?style=for-the-badge&logo=socketdotio&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP%20%2F%20OSI-166534?style=for-the-badge&logo=cloudflare&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP%20%2F%20OSI-166534?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![Nessus](https://img.shields.io/badge/Nessus-00A98F?style=for-the-badge)
+
+**Cloud & Deployment**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 **Tools & Platforms**
 
@@ -137,17 +162,32 @@ Software Engineering student at **FAST NUCES Lahore** and a **full-stack develop
 **🎓 BSc Software Engineering — FAST NUCES Lahore** · Aug 2023 – Expected Aug 2027
 <br/>Coursework: Software Design & Architecture, Database Systems, Design Patterns, Computer Networks, Operating Systems
 
+#### 🔹 Current Roles
+
+**🤖 Artificial Intelligence Intern — Spiral Labs** · Jul 2026 – Present · *NASTP, Lahore · Hybrid*
+<br/>Training AI models and building/deploying AI agents across a wide range of tasks.
+
+**🌐 IT & Networking Intern — NASTP Institute of Information Technology** · Jul 2026 – Present · *Lahore · On-site*
+<br/>Working hands-on with live network systems.
+
+**🛰️ Field Operations Specialist — Grenade Energy Ltd** · Jul 2026 – Present · *Hybrid*
+<br/>On the Field Operations team: outreach to events and teams, plus coordination of in-person events.
+
 **🏛️ Junior Software Engineer — BSDI (Balochistan Special Development Initiative)** · May 2026 – Present
-<br/>Building government-level, in-house software systems; full-stack development and system design.
+<br/>Building the **BSDI File Tracking & Management System** — a Django app digitizing government file routing across departments.
 
-**💻 Full-Stack Developer (Intern) — BeWhoop Inc.** · Jun – Aug 2025 · *Remote*
-<br/>Shipped a role-based ticketing system (issuance, completion tracking, escalation) on a live product; layered .NET backend, sprints managed in Jira.
+#### 🔹 Previously
 
-**📣 Head of Public Relations — NUCES Fintech Society** · 2025 – Present
-<br/>Led PR & outreach; key organizer of the NUCES Fintech Summit, coordinating speakers, sponsors, and attendees.
+**🔐 Cyber Security Intern — Progree** · Jun – Jul 2026 · *Remote*
+<br/>Ran host & network vulnerability assessments (Nmap, Nessus, Nikto) and packet-level analysis (Wireshark); designed a STRIDE threat model, a Zero-Trust access architecture, and a 4-stage incident-response plan.
 
-**🌐 Web Development Officer — SOFTEC** · 2024 – 2025
-<br/>Contributed to web operations for one of Pakistan's largest student-run software competitions.
+**💻 Full-Stack Developer — BeWhoop** · Jun – Jul 2025 · *Remote*
+<br/>Built web pages in Bootstrap & jQuery, then a standalone **.NET** ticketing system; sprints managed in Jira.
+
+#### 🔹 Leadership & Community
+
+**📣 Head of Public Relations — NUCES Fintech Society** · 2025 – Present — key organizer of the NUCES Fintech Summit.
+<br/>**🌐 Web Development Officer — SOFTEC** · 2024 – 2025 — web operations for one of Pakistan's largest student-run software competitions.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=22C55E&height=2&section=header" width="100%" />
 
