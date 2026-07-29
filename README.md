@@ -136,6 +136,9 @@ Software Engineering student at **FAST NUCES Lahore** and a **full-stack develop
       <h3 align="center">🎙️ Vox</h3>
       <p align="center"><i>A Real-Time AI Voice Agent</i></p>
       <p align="center">
+        <a href="https://real-time-ai-voice-agent-gk4yhsiqeypmipxmxenb8x.streamlit.app">
+          <img src="https://img.shields.io/badge/Live%20Demo-16A34A?style=for-the-badge&logo=streamlit&logoColor=white" alt="Vox live demo" />
+        </a>
         <a href="https://github.com/slider79/Real-Time-AI-Voice-Agent">
           <img src="https://img.shields.io/badge/View%20Repo-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Vox repo" />
         </a>
@@ -147,6 +150,9 @@ Software Engineering student at **FAST NUCES Lahore** and a **full-stack develop
       <h3 align="center">🧠 Memory Chat</h3>
       <p align="center"><i>A Persistent-Memory Chatbot</i></p>
       <p align="center">
+        <a href="https://persistent-memory-chatbot-9h83e5n4mekkpohkauggxd.streamlit.app">
+          <img src="https://img.shields.io/badge/Live%20Demo-16A34A?style=for-the-badge&logo=streamlit&logoColor=white" alt="Memory Chat live demo" />
+        </a>
         <a href="https://github.com/slider79/Persistent-Memory-Chatbot">
           <img src="https://img.shields.io/badge/View%20Repo-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Memory Chat repo" />
         </a>
