@@ -110,6 +110,7 @@ Software Engineering student at **FAST NUCES Lahore** and a **full-stack develop
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🕸️ ANON Mesh</h3>
+      <p align="center"><i>An Anonymous P2P Messaging Network</i></p>
       <p align="center">
         <a href="https://github.com/slider79/ANON_Deployment">
           <img src="https://img.shields.io/badge/View%20Repo-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="ANON Mesh repo" />
@@ -132,20 +133,22 @@ Software Engineering student at **FAST NUCES Lahore** and a **full-stack develop
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎙️ Real-Time AI Voice Agent</h3>
+      <h3 align="center">🎙️ Vox</h3>
+      <p align="center"><i>A Real-Time AI Voice Agent</i></p>
       <p align="center">
         <a href="https://github.com/slider79/Real-Time-AI-Voice-Agent">
-          <img src="https://img.shields.io/badge/View%20Repo-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Real-Time AI Voice Agent repo" />
+          <img src="https://img.shields.io/badge/View%20Repo-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Vox repo" />
         </a>
       </p>
       <p>A <b>push-to-talk voice assistant</b>: records your speech, transcribes it with <b>Groq Whisper</b>, reasons with a tool-calling <b>Groq LLM</b> (time + calculator tools), and replies out loud via <b>ElevenLabs</b>, all inside a Streamlit app with session memory.</p>
       <p><b>Tech:</b> Python · Streamlit · Groq Whisper · Groq LLM · ElevenLabs</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Persistent-Memory Chatbot</h3>
+      <h3 align="center">🧠 Memory Chat</h3>
+      <p align="center"><i>A Persistent-Memory Chatbot</i></p>
       <p align="center">
         <a href="https://github.com/slider79/Persistent-Memory-Chatbot">
-          <img src="https://img.shields.io/badge/View%20Repo-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Persistent Memory Chatbot repo" />
+          <img src="https://img.shields.io/badge/View%20Repo-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Memory Chat repo" />
         </a>
       </p>
       <p>A <b>chatbot that actually remembers you</b>: facts (age, location, interests) persist in <b>Mem0</b> across restarts and redeploys, not just page reloads. Recalls relevant memories each turn, updates facts instead of duplicating, with SHA-256-scoped per-session isolation.</p>
